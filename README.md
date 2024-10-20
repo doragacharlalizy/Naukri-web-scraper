@@ -20,7 +20,7 @@ To set up this project on your local machine, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sameermujahid/Naukari-web-scraper.git
+   git clone https://github.com/doragacharlalizy/Naukri-web-scraper
    cd Naukari-web-scraper
    ```
 
